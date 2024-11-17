@@ -55,15 +55,15 @@ python nome_do_arquivo.py
 ```
 ___
 ## Menu de Opções
-Ao executar o programa, você verá o seguinte menu interativo:
-Escolha uma das opções:
-[1] Coletando Informações do Processador
-[2] Listando Processos em Execução
-[3] Monitorando o Uso de Memória
-[4] Controlando Serviços do Sistema
-[5] Monitorando Eventos em Tempo Real
-[6] Executando Consultas Personalizadas com WQL
-[0] Encerrar
+Ao executar o programa, você verá o seguinte menu interativo:  
+Escolha uma das opções:  
+[1] Coletando Informações do Processador  
+[2] Listando Processos em Execução  
+[3] Monitorando o Uso de Memória  
+[4] Controlando Serviços do Sistema  
+[5] Monitorando Eventos em Tempo Real  
+[6] Executando Consultas Personalizadas com WQL  
+[0] Encerrar  
 Basta selecionar uma das opções para explorar as funcionalidades.
 ### Observação
 a opção **5 - Monitorando Eventos en Tempo Real** entra em um loop infinito para monitorar eventos continuamente. Para sair, interrompa a execução manualmente (Ctrl + C).
