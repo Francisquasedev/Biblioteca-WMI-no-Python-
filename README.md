@@ -75,6 +75,6 @@ Sinta-se à vontade para contribuir com melhorias, novos recursos ou correções
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 ***
 ## Contato
-Criado por: Francis Monteles
-Email: <quasedev@protonmail.com>
+Criado por: Francis Monteles  
+Email: <quasedev@protonmail.com>  
 LinkedIn: [Francis Monteles](https://www.linkedin.com/in/francis-monteles/)
